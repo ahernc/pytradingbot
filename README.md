@@ -10,4 +10,16 @@ numpy (https://numpy.org/)
 
 Alpaca API subscription which offers commission-free brokerage through its API (https://alpaca.markets/).  
 
+requests
 
+pandas
+
+alpha_vantage
+
+scipy
+
+beautifulsoup4
+
+websockets
+
+deprecated
